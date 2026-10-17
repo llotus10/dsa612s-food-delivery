@@ -1,0 +1,4 @@
+[package]
+org = "dsa612s"
+name = "admin_service"
+version = "0.1.0"
